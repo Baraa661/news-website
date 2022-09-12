@@ -1,16 +1,16 @@
 # Data-base connected full stack news website with Dashboard
 
 ## Please uncompress the three .rar files inside the news directory before running the server!
-
+### Home Page
 ![image](https://user-images.githubusercontent.com/61358818/189755256-acbc29d4-df3f-4e04-97eb-0ee5cae36f32.png)
-
+### Categories and top news
 ![image](https://user-images.githubusercontent.com/61358818/189755326-ccf018bb-503b-4ede-a423-096e9556cc27.png)
-
-![image](https://user-images.githubusercontent.com/61358818/189755391-0f851b9d-7fbe-4d12-8e7f-2c24fcfa6aa5.png)
-
+### Dashboard
+![image](https://user-images.githubusercontent.com/61358818/189755866-e2ec278b-a5d2-458c-8607-d35d2beee5a0.png)
+### 
 ![image](https://user-images.githubusercontent.com/61358818/189755626-1e8ef48d-bab9-461c-8f0d-4079631434ef.png)
 
-![image](https://user-images.githubusercontent.com/61358818/189755561-3669ba11-6adb-4308-b1ae-71db50fa22c4.png)
+![image](https://user-images.githubusercontent.com/61358818/189755809-1da05a9b-6a6d-44b5-9631-8ebd1fd7a3eb.png)
 
 
 
